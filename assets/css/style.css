@@ -66,8 +66,8 @@ p {
 }
 
 .float-right {
-    float: left;
-    margin-right: 25px;
+    float: right;
+    margin-left: 25px;
     /* Suppose to be on the left */
 }
 
@@ -180,23 +180,15 @@ p {
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Combine them to one class */
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
