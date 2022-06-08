@@ -45,7 +45,6 @@ CSS file fallows DRY principle
 Links in header are linkedconnected with images in respetive sections
 
 ## Mock-Up 
-The link to preview expected design of the website 
 ![Image](https://user-images.githubusercontent.com/106194588/172522965-7ee44602-e974-4ffc-9d24-ab97624de131.png)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/mumin/Desktop/class/Challenge01/Accessibility_Development/assets/Web.png?version%3D1654652504126)
+
